@@ -6,6 +6,10 @@ body{
     line-height: 17px;
     background-color: hsl(210, 46%, 95%);
     font-family: "Barlow Semi Condensed", sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 @media screen and (min-width: 520px) {
     .grid-parent{
