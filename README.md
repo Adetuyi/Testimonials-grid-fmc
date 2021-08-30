@@ -1,1 +1,2 @@
-# Testimonials-grid-fmc
+# Testimonials grid section
+Frontendmentor challenge
